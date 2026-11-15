@@ -33,6 +33,8 @@ that produced it.
    characteristics — never first.
 4. **Record decisions** as ADRs (Title, Status, Context, Decision, Consequences,
    Compliance) and mechanize what matters as fitness functions.
+5. **Opening an existing project:** read the ADRs before proposing anything. No
+   ADRs → reconstruct from git history, then write them.
 
 ## The three laws
 
