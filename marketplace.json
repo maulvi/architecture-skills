@@ -1,0 +1,33 @@
+{
+  "name": "architecture-skills",
+  "description": "Agent skills for software architecture decisions: trade-off analysis over pattern fashion, distilled from Fundamentals of Software Architecture (2nd ed.).",
+  "owner": {
+    "name": "maulvi",
+    "email": "maulvibiz@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "architecture-skills",
+      "description": "Architecture style selection, quantum boundaries, ADRs, fitness functions, and architecture smell review.",
+      "version": "0.1.0",
+      "source": "./",
+      "skills": [
+        "./skills/software-architecture"
+      ],
+      "author": {
+        "name": "maulvi",
+        "email": "maulvibiz@gmail.com"
+      },
+      "homepage": "https://github.com/maulvi/architecture-skills",
+      "repository": "https://github.com/maulvi/architecture-skills",
+      "license": "MIT",
+      "keywords": [
+        "skills",
+        "architecture",
+        "software-architecture",
+        "adr",
+        "trade-offs"
+      ]
+    }
+  ]
+}
